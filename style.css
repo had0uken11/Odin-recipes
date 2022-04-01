@@ -1,0 +1,26 @@
+body {
+    background-color: azure;
+    font-family: serif;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 46px;
+    color: rgb(112, 157, 199);
+}
+
+.kawaii {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+.lasagna {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 200px;
+}

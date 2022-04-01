@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(141, 37, 37);
+    font-family: serif;
+    text-align: center;
+    align-items: center;
+}
+
+#list {
+    text-align: left;
+}
